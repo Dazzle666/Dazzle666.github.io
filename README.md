@@ -1,4 +1,4 @@
-# KidjokeR Blog
+# Seth Dong's Blog
 
-## 我以为我就是这样快乐的光棍
-## 却为何老是拼命跟自己斗气较真
+## Live and Breathe Work
+## Have and Build Life
