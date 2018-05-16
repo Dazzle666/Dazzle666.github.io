@@ -1,16 +1,16 @@
 # Site settings
-title: KidjokeR Blog
-SEOTitle: 金志杰 | KidjokeR Blog
+title: Seth Dong Blog
+SEOTitle: 董旭 | Seth Dong Blog
 header-img: img/home-bg.jpg
 email: superhero.04@hotmail.com
 description: ""
 keyword: ""
-url: "http://kidjoker.cn"
+url: "blogs.idongxu.com.cn"
 baseurl: "/"
 
 # SNS settings
 #RSS: true
-github_username: kidjoker
+github_username: Dazzle666
 #weibo_username: kidjoker
 #zhihu_username: kidjoker
 #twitter_username: kidjoker
