@@ -1,9 +1,9 @@
 {
-    "name": "KidjokeR Blog",
-    "title": "KidjokeR Blog",
+    "name": "SethD Blog",
+    "title": "SethD Blog",
     "version": "1.0.0",
-    "homepage": "http://kidjoker.github.io",
-    "author": "KidjokeR",
+    "homepage": "http://Dazzle666.github.io",
+    "author": "SethD",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/kidjoker/kidjoker.github.io"
+        "url": "https://github.com/Dazzle666/Dazzle666.github.io"
     },
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
