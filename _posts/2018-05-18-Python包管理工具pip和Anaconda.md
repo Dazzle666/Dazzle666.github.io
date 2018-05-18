@@ -11,9 +11,8 @@ tags:
 	- Anaconda
 ---
 
-# pip #
-## 为什么需要使用pip ##
-
+#pip 
+##为什么需要使用pip
   Python和Java等语言一样有着许多可以被引用的库，丰富的库提供了很多方便的变量和方法供使用者直接使用，降低了编程的复杂度；使用者可以根据业务需要去调用合适的库。
   ```Python
 	import sys as args
@@ -23,22 +22,19 @@ tags:
 	而pip就是一种Python包管理工具。
 
 
-## pip的功能 ##
+##pip的功能
+正如上面所说，pip是用来导包的，即将Python库按照模块的形式导入并安装到本地仓库。
+除此之外它还有查看、删除、更新等操作。
 
-	正如上面所说，pip是用来导包的，即将Python库按照模块的形式导入并安装到本地仓库。
-	除此之外它还有查看、删除、更新等操作。
 
-
-##	pip的安装（Windows）##
-
-	在Python官网下载的新版的Python安装包已经包含了pip，比如我在官网下载的是Python 3.6.3，其根目录为Python36，在根目录下的Script文件夹包含了pip执行文件。
-	可以直接在该目录下运行pip。但为了方便起见，我们可以把pip所在目录配置到系统环境变量Path中，这样就可以直接在CMD控制台中调用pip命令。
-	（网上看到了通过easy install命令在Script文件目录下安装pip的方法，好像没什么区别）
+##pip的安装（Windows）
+在Python官网下载的新版的Python安装包已经包含了pip，比如我在官网下载的是Python 3.6.3，其根目录为Python36，在根目录下的Script文件夹包含了pip执行文件。
+可以直接在该目录下运行pip。但为了方便起见，我们可以把pip所在目录配置到系统环境变量Path中，这样就可以直接在CMD控制台中调用pip命令。
+（网上看到了通过easy install命令在Script文件目录下安装pip的方法，好像没什么区别）
 		
 
-## 如何使用pip（pip命令）##
-
-	完成以上配置之后，就可以直接打开CMD，运行pip命令。
+##如何使用pip（pip命令）
+完成以上配置之后，就可以直接打开CMD，运行pip命令。
 	
 	*install
 	我们常用的是install命令，用于导入Python包到仓库中。
@@ -66,22 +62,20 @@ tags:
 	*delete
 	暂时略
 	
-# Anaconda #
+#Anaconda
 
-## Anaconda是什么 ##
+##Anaconda是什么
  Anaconda是常用的一种Python版本及库管理工具
- 1、它可以通过创建不同的环境来切换使用不同的Python版本
- 2、同时它集成了丰富的常用Python库包
- 3、包含了conda，类似于pip的包管理工具，来管理Python包
+ > 1、它可以通过创建不同的环境来切换使用不同的Python版本
+   2、同时它集成了丰富的常用Python库包
+   3、包含了conda，类似于pip的包管理工具，来管理Python包
  *值得注意的是，在Anaconda中，Python和conda都被作为了包/模块来统一管理，这样才造就了它可以随意切换版本环境的特性。
 
-## Anaconda安装 ##
+##Anaconda安装
+可以去Anaconda官网去下载安装包，进行安装，安装完成后使用Anaconda Prompt可以直接使用对应命令
 
-	可以去Anaconda官网去下载安装包，进行安装，安装完成后使用Anaconda Prompt可以直接使用对应命令
-
-## conda命令 ##
-
-	与pip类似，可以通过conda来进行包、模块管理。
+##conda命令
+与pip类似，可以通过conda来进行包、模块管理。
 	```Python
 	conda install tensorflow
 	```
