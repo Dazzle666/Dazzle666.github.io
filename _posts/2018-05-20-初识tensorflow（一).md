@@ -4,7 +4,7 @@ title:      "初识tensorflow（一）"
 subtitle:   "TensorFlow概要"
 date:       2018-05-20 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - AI

@@ -4,7 +4,7 @@ title:      "初识tensorflow Cookbook chapter2（三）"
 subtitle:   "分层嵌套运算的使用"
 date:       2018-05-22 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - 分层嵌套运算的应用

@@ -4,7 +4,7 @@ title:      "初识tensorflow（五）"
 subtitle:   "声明运算/操作"
 date:       2018-05-22 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - 操作/运算

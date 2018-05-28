@@ -4,7 +4,7 @@ title:      "初识tensorflow Cookbook chapter2（一）"
 subtitle:   "图表运算原理"
 date:       2018-05-21 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - 图形运算

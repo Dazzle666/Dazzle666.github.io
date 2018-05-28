@@ -4,7 +4,7 @@ title:      "初识tensorflow（四）"
 subtitle:   "矩阵和矩阵运算"
 date:       2018-05-21 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - 矩阵

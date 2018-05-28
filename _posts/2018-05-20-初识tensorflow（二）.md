@@ -4,7 +4,7 @@ title:      "初识tensorflow（二）"
 subtitle:   "Tensor的创建"
 date:       2018-05-20 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-dubai.jpg"
+header-img: "img/post-bg-thinker.jpg"
 tags:
     - TensorFlow
     - Tensors
