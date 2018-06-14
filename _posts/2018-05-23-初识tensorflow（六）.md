@@ -4,7 +4,7 @@ title:      "初识tensorflow（六）"
 subtitle:   "激活函数"
 date:       2018-05-22 15:25:00
 author:     "SethD"
-header-img: "img/post-bg-thinker.jpg"
+header-img: "img/post-bg-ball.jpg"
 tags:
     - TensorFlow
     - 激活函数
